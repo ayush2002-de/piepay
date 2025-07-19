@@ -1,6 +1,6 @@
-# PiePay Backend Take-Home Assignment (ES6 Version)
+# PiePay Backend 
 
-This repository contains the solution for the PiePay backend take-home assignment. The project is a Node.js application built with Express.js and MongoDB that provides an API for processing and analyzing Flipkart payment offers. This version is updated to use modern ES6 syntax and best practices.
+This repository contains the solution for the PiePay backend . The project is a Node.js application built with Express.js and MongoDB that provides an API for processing and analyzing Flipkart payment offers.
 
 ## Table of Contents
 - [Project Structure](#project-structure)
@@ -39,8 +39,8 @@ This repository contains the solution for the PiePay backend take-home assignmen
 ## Setup and Installation
 1.  **Clone the repository:**
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone git@github.com:ayush2002-de/piepay.git
+    cd piepay
     ```
 
 2.  **Install dependencies:**
@@ -124,6 +124,7 @@ GET /highest-discount?amountToPay=10000&bankName=IDFC&paymentInstrument=CREDIT
 - The structure of the Flipkart offer API response is consistent.
 - The discount calculation logic is based on a percentage-based discount with a maximum cap.
 - The `bankName` and `paymentInstrument` values are consistent with the data stored in the database.
+- Do not consider `EMI_FULL_INTEREST_WAIVER` as a discount type because it removes extra charges rather than providing a discount.
 
 ## Design Choices
 - **Node.js and Express.js**: A popular and lightweight choice for building REST APIs.
