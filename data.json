@@ -1,0 +1,2455 @@
+{
+    "flipkartOfferApiResponse": {
+        "RESPONSE": {
+            "offer_sections": {
+                "PBO": {
+                    "title": "Partner offers",
+                    "offers": [
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250708213057D3S7O",
+                            "summary": "Get additional ₹1000 off on Credit/Debit Card, UPI and EMI Transactions",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT",
+                                    "CREDIT",
+                                    "EMI_OPTIONS",
+                                    "NET_OPTIONS",
+                                    "PHONEPE",
+                                    "UPI_COLLECT",
+                                    "UPI_INTENT",
+                                    "FK_UPI"
+                                ],
+                                "banks": [
+                                    "AXIS",
+                                    "HDFC",
+                                    "ICICI",
+                                    "INDUSIND",
+                                    "KOTAK",
+                                    "SBI",
+                                    "PNB",
+                                    "FEDERALBANK",
+                                    "DBS",
+                                    "STANC",
+                                    "YESBANK",
+                                    "HSBC",
+                                    "RBL",
+                                    "AMEX",
+                                    "LAZYPAY",
+                                    "ZESTMONEY",
+                                    "IDFC",
+                                    "KISSHT",
+                                    "FLIPKARTAXISBANK",
+                                    "INDIABULLS",
+                                    "BOBARODA",
+                                    "MOBIKWIK",
+                                    "SLICE",
+                                    "ABHYUDAYACO",
+                                    "ADARSHCOOPHYD",
+                                    "AHMEDABADCOOPBANK",
+                                    "AIRTELMONEY",
+                                    "AKCOOPBANK",
+                                    "ALLAHABAD",
+                                    "AMCOOPBANK",
+                                    "AMRITSARCCB",
+                                    "ANDHRA",
+                                    "APMAHESHBANK",
+                                    "ASCUCOOBANK",
+                                    "BANDHAN",
+                                    "BANKAM",
+                                    "BARCLAYS",
+                                    "BASSIENCATHOLICCOOPB",
+                                    "BATHINDACCB",
+                                    "BCBMUMBAI",
+                                    "BIUCOOPBANK",
+                                    "BOBAHRAIN",
+                                    "BOBARODAC",
+                                    "BOBARODAR",
+                                    "BOI",
+                                    "BOM",
+                                    "BSCOOBANK",
+                                    "CANARA",
+                                    "CAPITALONE",
+                                    "CATHOLICSYRIAN",
+                                    "CBI",
+                                    "CENTRALCOPBANK",
+                                    "CITYUNION",
+                                    "CORPORATION",
+                                    "COSMOS",
+                                    "DCB",
+                                    "DENA",
+                                    "DEUTSCHE",
+                                    "DHANBANK",
+                                    "DISTCOPBANK",
+                                    "DNSBANK",
+                                    "EMIRATESNBD",
+                                    "FARIDKOTCCB",
+                                    "FATEHGARHSAHIBCCB",
+                                    "FAZILKACCV",
+                                    "FEROZPURCCB",
+                                    "GCBBANK",
+                                    "GPPARSIKBANK",
+                                    "GRAMINBANK",
+                                    "GURDASPURCCB",
+                                    "HASTICOOPBANK",
+                                    "HOSHIARPURCCB",
+                                    "HUTATMASBL",
+                                    "IDBI",
+                                    "INACTIVERUPAY",
+                                    "INDIANBANK",
+                                    "INGVYSYA",
+                                    "IOB",
+                                    "JALGAONPEOPLESCOOP",
+                                    "JANATABANKPUNE",
+                                    "JANSEVASAHAKARIBANK",
+                                    "JKBANK",
+                                    "JPMORGAN",
+                                    "JULLUNDURCCB",
+                                    "KALUPURBANK",
+                                    "KALYANJANATA",
+                                    "KAPURTHALACCB",
+                                    "KARNATAKA",
+                                    "KARURVYSYA",
+                                    "KERALAGRAMINBANK",
+                                    "LAKSHMIVILAS",
+                                    "LAKSHMIVILASC",
+                                    "LLOYDSTSB",
+                                    "LUDHIANACCB",
+                                    "MAHANAGARCOOPBANK",
+                                    "MAHARASHTRAGB",
+                                    "MAHARASHTRASCB",
+                                    "MALADSAHAKARIBANK",
+                                    "MANSACCB",
+                                    "MCOOPBANK",
+                                    "MERCAHNTCOPBANK",
+                                    "MOGACCB",
+                                    "MUKTSARCCB",
+                                    "MUNICIPALBANKMUMBAI",
+                                    "NABIL",
+                                    "NADICOOPBANK",
+                                    "NATAUS",
+                                    "NATIONALCOPBANK",
+                                    "NATWEST",
+                                    "NAWANSHAHRCCB",
+                                    "NETWORKINT",
+                                    "NEWINDIA",
+                                    "NILCOOPBANK",
+                                    "NKGSB",
+                                    "NUTANBANK",
+                                    "OBC",
+                                    "ODISHASTATECOOPBANK",
+                                    "PATIALACCB",
+                                    "PBSINT",
+                                    "PNBC",
+                                    "PNSB",
+                                    "POCHAMPALLYCOOPBANK",
+                                    "PRAGATIKRISHNAGBANK",
+                                    "PRIMECOOPBANK",
+                                    "PSBL",
+                                    "PUNJABMAHA",
+                                    "PUNJABSTATECOOPBANK",
+                                    "RAJGSABANK",
+                                    "RATNAKAR",
+                                    "RBC",
+                                    "RBS",
+                                    "ROPARCCB",
+                                    "RUPAYSBANK",
+                                    "SAHAKARIBANK",
+                                    "SANGRURCCB",
+                                    "SARASWAT",
+                                    "SARASWATCOOPBANK",
+                                    "SASNAGARCCB",
+                                    "SBPCOOP",
+                                    "SEVAVIKASCOPBANK",
+                                    "SHAMRAOVITHAL",
+                                    "SHINHAN",
+                                    "SHRIARIHANTCOOPBANK",
+                                    "SHRIWARANACOOPBANK",
+                                    "SOUTHINDIAN",
+                                    "SPCBL",
+                                    "SSUCOOPBANK",
+                                    "STATECOPBANK",
+                                    "SUCOSOUHARDABANK",
+                                    "SUDICOOPBANK",
+                                    "SURYODAYA",
+                                    "SUTCOOPBANK",
+                                    "SYNDICATE",
+                                    "TARNTARANCCB",
+                                    "TDACOOPBANK",
+                                    "TDCANADA",
+                                    "TGDPCB",
+                                    "THRISSURDCB",
+                                    "TKACOOPBANK",
+                                    "TLMCOOBANK",
+                                    "TMBANK",
+                                    "TNMERCANTILE",
+                                    "TUDUCOOPBANK",
+                                    "UCO",
+                                    "UMSUCOOBANK",
+                                    "UNIONBANK",
+                                    "UNITEDBANK",
+                                    "URBANCOPBANK",
+                                    "UTSCOOBANK",
+                                    "VACHCOOPBANK",
+                                    "VAIDYANATHURBANCOOPB",
+                                    "VALSADDCCB",
+                                    "VIJAYABANK",
+                                    "WELLSFARGO",
+                                    "WOORIBANK",
+                                    "VASAIVIKASBANK",
+                                    "CBPL",
+                                    "HIB",
+                                    "TJSB",
+                                    "ARVT",
+                                    "BOFA",
+                                    "CHAS",
+                                    "CTBA",
+                                    "NATA",
+                                    "PNCC",
+                                    "RBDO",
+                                    "TDOM",
+                                    "ARVEST",
+                                    "BOP",
+                                    "BOR",
+                                    "CENTURION",
+                                    "CHASEBANK",
+                                    "COMMONWEALTH",
+                                    "HIMALAYAN",
+                                    "PNCBANK",
+                                    "TNSC",
+                                    "BMB",
+                                    "GE",
+                                    "FIRSTRAND",
+                                    "BOA",
+                                    "TCIL",
+                                    "BNPPARIBAS",
+                                    "BHARATBANK",
+                                    "ZOROASTRIANCOOPBANK",
+                                    "MUDRABANK",
+                                    "MYUCOOBANK",
+                                    "NKGSBCOOPBANK",
+                                    "AMSABANK",
+                                    "VIJCOOPBANK",
+                                    "TCICOOPBANK",
+                                    "SRBSABANK",
+                                    "CGGB",
+                                    "MAHILACOOPBANK",
+                                    "HDFC_DEBIT",
+                                    "HDFC_CD",
+                                    "AUSMALLFINBANK",
+                                    "DHANI",
+                                    "ONECARD"
+                                ],
+                                "emi_months": [
+                                    "0",
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/64/64/promos/02/06/2022/a89d0cb0-9155-4545-bd47-c5c53c8d50b7.png"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709085433BYNV3",
+                            "summary": "Get additional ₹1000 off on Credit/Debit Card, UPI and EMI Transactions",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT",
+                                    "CREDIT",
+                                    "EMI_OPTIONS",
+                                    "NET_OPTIONS",
+                                    "PHONEPE",
+                                    "UPI_COLLECT",
+                                    "UPI_INTENT",
+                                    "FK_UPI"
+                                ],
+                                "banks": [
+                                    "AXIS",
+                                    "HDFC",
+                                    "ICICI",
+                                    "INDUSIND",
+                                    "KOTAK",
+                                    "SBI",
+                                    "PNB",
+                                    "FEDERALBANK",
+                                    "DBS",
+                                    "STANC",
+                                    "YESBANK",
+                                    "HSBC",
+                                    "RBL",
+                                    "AMEX",
+                                    "LAZYPAY",
+                                    "ZESTMONEY",
+                                    "IDFC",
+                                    "KISSHT",
+                                    "FLIPKARTAXISBANK",
+                                    "INDIABULLS",
+                                    "BOBARODA",
+                                    "MOBIKWIK",
+                                    "SLICE",
+                                    "ABHYUDAYACO",
+                                    "ADARSHCOOPHYD",
+                                    "AHMEDABADCOOPBANK",
+                                    "AIRTELMONEY",
+                                    "AKCOOPBANK",
+                                    "ALLAHABAD",
+                                    "AMCOOPBANK",
+                                    "AMRITSARCCB",
+                                    "ANDHRA",
+                                    "APMAHESHBANK",
+                                    "ASCUCOOBANK",
+                                    "BANDHAN",
+                                    "BANKAM",
+                                    "BARCLAYS",
+                                    "BASSIENCATHOLICCOOPB",
+                                    "BATHINDACCB",
+                                    "BCBMUMBAI",
+                                    "BIUCOOPBANK",
+                                    "BOBAHRAIN",
+                                    "BOBARODAC",
+                                    "BOBARODAR",
+                                    "BOI",
+                                    "BOM",
+                                    "BSCOOBANK",
+                                    "CANARA",
+                                    "CAPITALONE",
+                                    "CATHOLICSYRIAN",
+                                    "CBI",
+                                    "CENTRALCOPBANK",
+                                    "CITYUNION",
+                                    "CORPORATION",
+                                    "COSMOS",
+                                    "DCB",
+                                    "DENA",
+                                    "DEUTSCHE",
+                                    "DHANBANK",
+                                    "DISTCOPBANK",
+                                    "DNSBANK",
+                                    "EMIRATESNBD",
+                                    "FARIDKOTCCB",
+                                    "FATEHGARHSAHIBCCB",
+                                    "FAZILKACCV",
+                                    "FEROZPURCCB",
+                                    "GCBBANK",
+                                    "GPPARSIKBANK",
+                                    "GRAMINBANK",
+                                    "GURDASPURCCB",
+                                    "HASTICOOPBANK",
+                                    "HOSHIARPURCCB",
+                                    "HUTATMASBL",
+                                    "IDBI",
+                                    "INACTIVERUPAY",
+                                    "INDIANBANK",
+                                    "INGVYSYA",
+                                    "IOB",
+                                    "JALGAONPEOPLESCOOP",
+                                    "JANATABANKPUNE",
+                                    "JANSEVASAHAKARIBANK",
+                                    "JKBANK",
+                                    "JPMORGAN",
+                                    "JULLUNDURCCB",
+                                    "KALUPURBANK",
+                                    "KALYANJANATA",
+                                    "KAPURTHALACCB",
+                                    "KARNATAKA",
+                                    "KARURVYSYA",
+                                    "KERALAGRAMINBANK",
+                                    "LAKSHMIVILAS",
+                                    "LAKSHMIVILASC",
+                                    "LLOYDSTSB",
+                                    "LUDHIANACCB",
+                                    "MAHANAGARCOOPBANK",
+                                    "MAHARASHTRAGB",
+                                    "MAHARASHTRASCB",
+                                    "MALADSAHAKARIBANK",
+                                    "MANSACCB",
+                                    "MCOOPBANK",
+                                    "MERCAHNTCOPBANK",
+                                    "MOGACCB",
+                                    "MUKTSARCCB",
+                                    "MUNICIPALBANKMUMBAI",
+                                    "NABIL",
+                                    "NADICOOPBANK",
+                                    "NATAUS",
+                                    "NATIONALCOPBANK",
+                                    "NATWEST",
+                                    "NAWANSHAHRCCB",
+                                    "NETWORKINT",
+                                    "NEWINDIA",
+                                    "NILCOOPBANK",
+                                    "NKGSB",
+                                    "NUTANBANK",
+                                    "OBC",
+                                    "ODISHASTATECOOPBANK",
+                                    "PATIALACCB",
+                                    "PBSINT",
+                                    "PNBC",
+                                    "PNSB",
+                                    "POCHAMPALLYCOOPBANK",
+                                    "PRAGATIKRISHNAGBANK",
+                                    "PRIMECOOPBANK",
+                                    "PSBL",
+                                    "PUNJABMAHA",
+                                    "PUNJABSTATECOOPBANK",
+                                    "RAJGSABANK",
+                                    "RATNAKAR",
+                                    "RBC",
+                                    "RBS",
+                                    "ROPARCCB",
+                                    "RUPAYSBANK",
+                                    "SAHAKARIBANK",
+                                    "SANGRURCCB",
+                                    "SARASWAT",
+                                    "SARASWATCOOPBANK",
+                                    "SASNAGARCCB",
+                                    "SBPCOOP",
+                                    "SEVAVIKASCOPBANK",
+                                    "SHAMRAOVITHAL",
+                                    "SHINHAN",
+                                    "SHRIARIHANTCOOPBANK",
+                                    "SHRIWARANACOOPBANK",
+                                    "SOUTHINDIAN",
+                                    "SPCBL",
+                                    "SSUCOOPBANK",
+                                    "STATECOPBANK",
+                                    "SUCOSOUHARDABANK",
+                                    "SUDICOOPBANK",
+                                    "SURYODAYA",
+                                    "SUTCOOPBANK",
+                                    "SYNDICATE",
+                                    "TARNTARANCCB",
+                                    "TDACOOPBANK",
+                                    "TDCANADA",
+                                    "TGDPCB",
+                                    "THRISSURDCB",
+                                    "TKACOOPBANK",
+                                    "TLMCOOBANK",
+                                    "TMBANK",
+                                    "TNMERCANTILE",
+                                    "TUDUCOOPBANK",
+                                    "UCO",
+                                    "UMSUCOOBANK",
+                                    "UNIONBANK",
+                                    "UNITEDBANK",
+                                    "URBANCOPBANK",
+                                    "UTSCOOBANK",
+                                    "VACHCOOPBANK",
+                                    "VAIDYANATHURBANCOOPB",
+                                    "VALSADDCCB",
+                                    "VIJAYABANK",
+                                    "WELLSFARGO",
+                                    "WOORIBANK",
+                                    "VASAIVIKASBANK",
+                                    "CBPL",
+                                    "HIB",
+                                    "TJSB",
+                                    "ARVT",
+                                    "BOFA",
+                                    "CHAS",
+                                    "CTBA",
+                                    "NATA",
+                                    "PNCC",
+                                    "RBDO",
+                                    "TDOM",
+                                    "ARVEST",
+                                    "BOP",
+                                    "BOR",
+                                    "CENTURION",
+                                    "CHASEBANK",
+                                    "COMMONWEALTH",
+                                    "HIMALAYAN",
+                                    "PNCBANK",
+                                    "TNSC",
+                                    "BMB",
+                                    "GE",
+                                    "FIRSTRAND",
+                                    "BOA",
+                                    "TCIL",
+                                    "BNPPARIBAS",
+                                    "BHARATBANK",
+                                    "ZOROASTRIANCOOPBANK",
+                                    "MUDRABANK",
+                                    "MYUCOOBANK",
+                                    "NKGSBCOOPBANK",
+                                    "AMSABANK",
+                                    "VIJCOOPBANK",
+                                    "TCICOOPBANK",
+                                    "SRBSABANK",
+                                    "CGGB",
+                                    "MAHILACOOPBANK",
+                                    "HDFC_DEBIT",
+                                    "HDFC_CD",
+                                    "AUSMALLFINBANK",
+                                    "DHANI",
+                                    "ONECARD"
+                                ],
+                                "emi_months": [
+                                    "0",
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/64/64/promos/02/06/2022/a89d0cb0-9155-4545-bd47-c5c53c8d50b7.png"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709113443ONOEI",
+                            "summary": "Extra ₹500 on IDFC First Bank Credit Card and Credit EMI Transactions. Min Txn Value:  ₹24,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT",
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "IDFC"
+                                ],
+                                "emi_months": [
+                                    "0",
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/128/128/promos/01/09/2023/c00c8f1e-1ae7-49d1-b7e5-0e2df3d11ef7.png?q=100"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709161823R8URX",
+                            "summary": "Extra ₹500 off on Axis Bank Credit Cards (incl. migrated ones), Min Txn Value: ₹24,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT",
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "AXIS"
+                                ],
+                                "emi_months": [
+                                    "0",
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/axis-78501b36.svg"
+                        },
+                        {
+                            "adjustment_type": "CASHBACK_ON_CARD",
+                            "adjustment_id": "FPO250626172916JI4VZ",
+                            "summary": "Flat ₹10 Cashback on Paytm UPI Trxns. Min Order Value ₹500. Valid once per Paytm account",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "UPI_COLLECT",
+                                    "UPI_INTENT"
+                                ],
+                                "banks": [],
+                                "emi_months": [
+                                    "0"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/64/64/promos/02/06/2022/a89d0cb0-9155-4545-bd47-c5c53c8d50b7.png"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250630234041IYTLP",
+                            "summary": "No Cost EMI on Cardless EMI",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "AMEX",
+                                    "AXIS",
+                                    "HDFC",
+                                    "ICICI",
+                                    "INDUSIND",
+                                    "KOTAK",
+                                    "SBI",
+                                    "SBBIKANER",
+                                    "SBHYDERABAD",
+                                    "SBMYSORE",
+                                    "SBPATIALA",
+                                    "LAZYPAY",
+                                    "ZESTMONEY",
+                                    "SBTRAVANCORE",
+                                    "PNB",
+                                    "FEDERALBANK",
+                                    "DBS",
+                                    "STANC",
+                                    "YESBANK",
+                                    "RBL",
+                                    "HSBC",
+                                    "ROYAL_BANK_OF_SCOTLAND",
+                                    "BOBARODA",
+                                    "CANARA",
+                                    "BOI",
+                                    "IDBI",
+                                    "UNIONBANK",
+                                    "CBI",
+                                    "RUPAYSBANK",
+                                    "JKBANK",
+                                    "INDIANBANK",
+                                    "IOB",
+                                    "SYNDICATE",
+                                    "ANDHRA",
+                                    "UCO",
+                                    "UNITEDBANK",
+                                    "CORPORATION",
+                                    "ALLAHABAD",
+                                    "VIJAYABANK",
+                                    "OBC",
+                                    "BOM",
+                                    "SOUTHINDIAN",
+                                    "KARNATAKA",
+                                    "IDFC",
+                                    "KARURVYSYA",
+                                    "BANDHAN",
+                                    "DENA",
+                                    "CITYUNION",
+                                    "AIRTEL",
+                                    "AIRTELMONEY",
+                                    "BOBARODAR",
+                                    "LAKSHMIVILAS",
+                                    "INGVYSYA",
+                                    "PNSB",
+                                    "PUNJABMAHA",
+                                    "SARASWAT",
+                                    "Keralagraminbank",
+                                    "DCB",
+                                    "DHANBANK",
+                                    "DEUTSCHE",
+                                    "GRAMINBANK",
+                                    "TNMERCANTILE",
+                                    "BASSIENCATHOLICCOOPB",
+                                    "HUTATMASBL",
+                                    "KALUPURBANK",
+                                    "SARASWATCOOPBANK",
+                                    "ABHYUDAYACO",
+                                    "AUSMALLFINBANK",
+                                    "AUSMALLFINANCE",
+                                    "CATHOLICSYRIAN",
+                                    "DCBP",
+                                    "INACTIVERUPAY",
+                                    "KISSHT",
+                                    "RBS",
+                                    "SAHAKARIBANK",
+                                    "SHAMRAOVITHAL",
+                                    "STATECOPBANK",
+                                    "SURYODAYA",
+                                    "TKACOOPBANK",
+                                    "TMBANK",
+                                    "FLIPKARTAXISBANK",
+                                    "INDIABULLS",
+                                    "BAJAJFINSERV",
+                                    "ADARSHCOOPHYD",
+                                    "AHMEDABADCOOPBANK",
+                                    "AKCOOPBANK",
+                                    "AMCOOPBANK",
+                                    "AMRITSARCCB",
+                                    "APMAHESHBANK",
+                                    "ASCUCOOBANK",
+                                    "BANKAM",
+                                    "BARCLAYS",
+                                    "BATHINDACCB",
+                                    "BCBMUMBAI",
+                                    "BIUCOOPBANK",
+                                    "BOBAHRAIN",
+                                    "BOBARODAC",
+                                    "BSCOOBANK",
+                                    "CAPITALONE",
+                                    "CENTRALCOPBANK",
+                                    "COSMOS",
+                                    "DISTCOPBANK",
+                                    "DNSBANK",
+                                    "EMIRATESNBD",
+                                    "FARIDKOTCCB",
+                                    "FATEHGARHSAHIBCCB",
+                                    "FAZILKACCV",
+                                    "FEROZPURCCB",
+                                    "GCBBANK",
+                                    "GPPARSIKBANK",
+                                    "GURDASPURCCB",
+                                    "HASTICOOPBANK",
+                                    "HOSHIARPURCCB",
+                                    "JALGAONPEOPLESCOOP",
+                                    "JANATABANKPUNE",
+                                    "JANSEVASAHAKARIBANK",
+                                    "JPMORGAN",
+                                    "JULLUNDURCCB",
+                                    "KALYANJANATA",
+                                    "KAPURTHALACCB",
+                                    "KERALAGRAMINBANK",
+                                    "LAKSHMIVILASC",
+                                    "LLOYDSTSB",
+                                    "LUDHIANACCB",
+                                    "MAHANAGARCOOPBANK",
+                                    "MAHARASHTRAGB",
+                                    "MAHARASHTRASCB",
+                                    "MALADSAHAKARIBANK",
+                                    "MANSACCB",
+                                    "MCOOPBANK",
+                                    "MERCAHNTCOPBANK",
+                                    "MOGACCB",
+                                    "MUKTSARCCB",
+                                    "MUNICIPALBANKMUMBAI",
+                                    "NABIL",
+                                    "NADICOOPBANK",
+                                    "NATAUS",
+                                    "NATIONALCOPBANK",
+                                    "NATWEST",
+                                    "NAWANSHAHRCCB",
+                                    "NETWORKINT",
+                                    "NEWINDIA",
+                                    "NILCOOPBANK",
+                                    "NKGSB",
+                                    "NUTANBANK",
+                                    "ODISHASTATECOOPBANK",
+                                    "PATIALACCB",
+                                    "PBSINT",
+                                    "PNBC",
+                                    "POCHAMPALLYCOOPBANK",
+                                    "PRAGATIKRISHNAGBANK",
+                                    "PRIMECOOPBANK",
+                                    "PSBL",
+                                    "PUNJABSTATECOOPBANK",
+                                    "RAJGSABANK",
+                                    "RATNAKAR",
+                                    "RBC",
+                                    "ROPARCCB",
+                                    "SANGRURCCB",
+                                    "SASNAGARCCB",
+                                    "SBPCOOP",
+                                    "SEVAVIKASCOPBANK",
+                                    "SHINHAN",
+                                    "SHRIARIHANTCOOPBANK",
+                                    "SHRIWARANACOOPBANK",
+                                    "SPCBL",
+                                    "SSUCOOPBANK",
+                                    "SUCOSOUHARDABANK",
+                                    "SUDICOOPBANK",
+                                    "SUTCOOPBANK",
+                                    "TARNTARANCCB",
+                                    "TDACOOPBANK",
+                                    "TDCANADA",
+                                    "TGDPCB",
+                                    "THRISSURDCB",
+                                    "TLMCOOBANK",
+                                    "TUDUCOOPBANK",
+                                    "UMSUCOOBANK",
+                                    "URBANCOPBANK",
+                                    "UTSCOOBANK",
+                                    "VACHCOOPBANK",
+                                    "VAIDYANATHURBANCOOPB",
+                                    "VALSADDCCB",
+                                    "WELLSFARGO",
+                                    "WOORIBANK",
+                                    "VASAIVIKASBANK",
+                                    "CBPL",
+                                    "HIB",
+                                    "TJSB",
+                                    "ARVT",
+                                    "BOFA",
+                                    "CHAS",
+                                    "CTBA",
+                                    "NATA",
+                                    "PNCC",
+                                    "RBDO",
+                                    "TDOM",
+                                    "ARVEST",
+                                    "BOP",
+                                    "BOR",
+                                    "CENTURION",
+                                    "CHASEBANK",
+                                    "COMMONWEALTH",
+                                    "HIMALAYAN",
+                                    "PNCBANK",
+                                    "TNSC",
+                                    "BMB",
+                                    "GE",
+                                    "FIRSTRAND",
+                                    "BOA",
+                                    "TCIL",
+                                    "BNPPARIBAS",
+                                    "BHARATBANK",
+                                    "ZOROASTRIANCOOPBANK",
+                                    "MUDRABANK",
+                                    "MYUCOOBANK",
+                                    "NKGSBCOOPBANK",
+                                    "AMSABANK",
+                                    "VIJCOOPBANK",
+                                    "TCICOOPBANK",
+                                    "SRBSABANK",
+                                    "CGGB",
+                                    "MAHILACOOPBANK",
+                                    "HDFC_DEBIT",
+                                    "HDFC_CD",
+                                    "MOBIKWIK",
+                                    "SLICE",
+                                    "DHANI",
+                                    "ONECARD",
+                                    "FLIPKARTBAJAJFINSERV",
+                                    "HFCL"
+                                ],
+                                "emi_months": [
+                                    "3"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/64/64/promos/02/06/2022/a89d0cb0-9155-4545-bd47-c5c53c8d50b7.png"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250630230835EINJB",
+                            "summary": "No Cost EMI on Credit and Debit Cards",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "AXIS",
+                                    "HDFC",
+                                    "ICICI",
+                                    "INDUSIND",
+                                    "KOTAK",
+                                    "SBI",
+                                    "PNB",
+                                    "FEDERALBANK",
+                                    "DBS",
+                                    "STANC",
+                                    "YESBANK",
+                                    "HSBC",
+                                    "RBL",
+                                    "AMEX",
+                                    "LAZYPAY",
+                                    "ZESTMONEY",
+                                    "IDFC",
+                                    "KISSHT",
+                                    "FLIPKARTAXISBANK",
+                                    "INDIABULLS",
+                                    "BOBARODA",
+                                    "MOBIKWIK",
+                                    "SLICE",
+                                    "ABHYUDAYACO",
+                                    "ADARSHCOOPHYD",
+                                    "AHMEDABADCOOPBANK",
+                                    "AIRTELMONEY",
+                                    "AKCOOPBANK",
+                                    "ALLAHABAD",
+                                    "AMCOOPBANK",
+                                    "AMRITSARCCB",
+                                    "ANDHRA",
+                                    "APMAHESHBANK",
+                                    "ASCUCOOBANK",
+                                    "BANDHAN",
+                                    "BANKAM",
+                                    "BARCLAYS",
+                                    "BASSIENCATHOLICCOOPB",
+                                    "BATHINDACCB",
+                                    "BCBMUMBAI",
+                                    "BIUCOOPBANK",
+                                    "BOBAHRAIN",
+                                    "BOBARODAC",
+                                    "BOBARODAR",
+                                    "BOI",
+                                    "BOM",
+                                    "BSCOOBANK",
+                                    "CANARA",
+                                    "CAPITALONE",
+                                    "CATHOLICSYRIAN",
+                                    "CBI",
+                                    "CENTRALCOPBANK",
+                                    "CITYUNION",
+                                    "CORPORATION",
+                                    "COSMOS",
+                                    "DCB",
+                                    "DENA",
+                                    "DEUTSCHE",
+                                    "DHANBANK",
+                                    "DISTCOPBANK",
+                                    "DNSBANK",
+                                    "EMIRATESNBD",
+                                    "FARIDKOTCCB",
+                                    "FATEHGARHSAHIBCCB",
+                                    "FAZILKACCV",
+                                    "FEROZPURCCB",
+                                    "GCBBANK",
+                                    "GPPARSIKBANK",
+                                    "GRAMINBANK",
+                                    "GURDASPURCCB",
+                                    "HASTICOOPBANK",
+                                    "HOSHIARPURCCB",
+                                    "HUTATMASBL",
+                                    "IDBI",
+                                    "INACTIVERUPAY",
+                                    "INDIANBANK",
+                                    "INGVYSYA",
+                                    "IOB",
+                                    "JALGAONPEOPLESCOOP",
+                                    "JANATABANKPUNE",
+                                    "JANSEVASAHAKARIBANK",
+                                    "JKBANK",
+                                    "JPMORGAN",
+                                    "JULLUNDURCCB",
+                                    "KALUPURBANK",
+                                    "KALYANJANATA",
+                                    "KAPURTHALACCB",
+                                    "KARNATAKA",
+                                    "KARURVYSYA",
+                                    "KERALAGRAMINBANK",
+                                    "LAKSHMIVILAS",
+                                    "LAKSHMIVILASC",
+                                    "LLOYDSTSB",
+                                    "LUDHIANACCB",
+                                    "MAHANAGARCOOPBANK",
+                                    "MAHARASHTRAGB",
+                                    "MAHARASHTRASCB",
+                                    "MALADSAHAKARIBANK",
+                                    "MANSACCB",
+                                    "MCOOPBANK",
+                                    "MERCAHNTCOPBANK",
+                                    "MOGACCB",
+                                    "MUKTSARCCB",
+                                    "MUNICIPALBANKMUMBAI",
+                                    "NABIL",
+                                    "NADICOOPBANK",
+                                    "NATAUS",
+                                    "NATIONALCOPBANK",
+                                    "NATWEST",
+                                    "NAWANSHAHRCCB",
+                                    "NETWORKINT",
+                                    "NEWINDIA",
+                                    "NILCOOPBANK",
+                                    "NKGSB",
+                                    "NUTANBANK",
+                                    "OBC",
+                                    "ODISHASTATECOOPBANK",
+                                    "PATIALACCB",
+                                    "PBSINT",
+                                    "PNBC",
+                                    "PNSB",
+                                    "POCHAMPALLYCOOPBANK",
+                                    "PRAGATIKRISHNAGBANK",
+                                    "PRIMECOOPBANK",
+                                    "PSBL",
+                                    "PUNJABMAHA",
+                                    "PUNJABSTATECOOPBANK",
+                                    "RAJGSABANK",
+                                    "RATNAKAR",
+                                    "RBC",
+                                    "RBS",
+                                    "ROPARCCB",
+                                    "RUPAYSBANK",
+                                    "SAHAKARIBANK",
+                                    "SANGRURCCB",
+                                    "SARASWAT",
+                                    "SARASWATCOOPBANK",
+                                    "SASNAGARCCB",
+                                    "SBPCOOP",
+                                    "SEVAVIKASCOPBANK",
+                                    "SHAMRAOVITHAL",
+                                    "SHINHAN",
+                                    "SHRIARIHANTCOOPBANK",
+                                    "SHRIWARANACOOPBANK",
+                                    "SOUTHINDIAN",
+                                    "SPCBL",
+                                    "SSUCOOPBANK",
+                                    "STATECOPBANK",
+                                    "SUCOSOUHARDABANK",
+                                    "SUDICOOPBANK",
+                                    "SURYODAYA",
+                                    "SUTCOOPBANK",
+                                    "SYNDICATE",
+                                    "TARNTARANCCB",
+                                    "TDACOOPBANK",
+                                    "TDCANADA",
+                                    "TGDPCB",
+                                    "THRISSURDCB",
+                                    "TKACOOPBANK",
+                                    "TLMCOOBANK",
+                                    "TMBANK",
+                                    "TNMERCANTILE",
+                                    "TUDUCOOPBANK",
+                                    "UCO",
+                                    "UMSUCOOBANK",
+                                    "UNIONBANK",
+                                    "UNITEDBANK",
+                                    "URBANCOPBANK",
+                                    "UTSCOOBANK",
+                                    "VACHCOOPBANK",
+                                    "VAIDYANATHURBANCOOPB",
+                                    "VALSADDCCB",
+                                    "VIJAYABANK",
+                                    "WELLSFARGO",
+                                    "WOORIBANK",
+                                    "VASAIVIKASBANK",
+                                    "CBPL",
+                                    "HIB",
+                                    "TJSB",
+                                    "ARVT",
+                                    "BOFA",
+                                    "CHAS",
+                                    "CTBA",
+                                    "NATA",
+                                    "PNCC",
+                                    "RBDO",
+                                    "TDOM",
+                                    "ARVEST",
+                                    "BOP",
+                                    "BOR",
+                                    "CENTURION",
+                                    "CHASEBANK",
+                                    "COMMONWEALTH",
+                                    "HIMALAYAN",
+                                    "PNCBANK",
+                                    "TNSC",
+                                    "BMB",
+                                    "GE",
+                                    "FIRSTRAND",
+                                    "BOA",
+                                    "TCIL",
+                                    "BNPPARIBAS",
+                                    "BHARATBANK",
+                                    "ZOROASTRIANCOOPBANK",
+                                    "MUDRABANK",
+                                    "MYUCOOBANK",
+                                    "NKGSBCOOPBANK",
+                                    "AMSABANK",
+                                    "VIJCOOPBANK",
+                                    "TCICOOPBANK",
+                                    "SRBSABANK",
+                                    "CGGB",
+                                    "MAHILACOOPBANK",
+                                    "HDFC_DEBIT",
+                                    "HDFC_CD",
+                                    "AUSMALLFINBANK",
+                                    "DHANI",
+                                    "ONECARD"
+                                ],
+                                "emi_months": [
+                                    "3"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/64/64/promos/02/06/2022/a89d0cb0-9155-4545-bd47-c5c53c8d50b7.png"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250626182451RYQC7",
+                            "summary": "5% off up to ₹750 on IDFC FIRST Power Women Platinum and Signature DebitCards. Min Txn Value: ₹5,000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT"
+                                ],
+                                "banks": [
+                                    "IDFC"
+                                ],
+                                "emi_months": [
+                                    "0"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/128/128/promos/01/09/2023/c00c8f1e-1ae7-49d1-b7e5-0e2df3d11ef7.png?q=100"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO25070910192385MCV",
+                            "summary": "Flat ₹750 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹15000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "6"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO2507091817394HFZO",
+                            "summary": "Flat ₹1250 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹20000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "6"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250630231510JJHGY",
+                            "summary": "No Cost EMI on your Flipkart Paylater EMI Transactions",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "IDFC"
+                                ],
+                                "emi_months": [
+                                    "3"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/128/128/promos/01/09/2023/c00c8f1e-1ae7-49d1-b7e5-0e2df3d11ef7.png?q=100"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709124732C8BWO",
+                            "summary": "Extra ₹500 off on Flipkart Axis Bank Credit Cards EMI, Min Txn Value: ₹24,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "FLIPKARTAXISBANK"
+                                ],
+                                "emi_months": [
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/axis-78501b36.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709101536EG53K",
+                            "summary": "Flat ₹750 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹10000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO2507091128481E5J6",
+                            "summary": "Flat ₹1000 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹15000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250710133852N3WCR",
+                            "summary": "Flat ₹1500 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹20000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "CASHBACK_ON_CARD",
+                            "adjustment_id": "FPO250619134128USHPF",
+                            "summary": "5% cashback on Flipkart Axis Bank Credit Card upto ₹4,000 per statement quarter",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT"
+                                ],
+                                "banks": [
+                                    "FLIPKARTAXISBANK"
+                                ],
+                                "emi_months": [
+                                    "0"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/axis-78501b36.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709141940GTY6M",
+                            "summary": "Flat ₹500 on HDFC Bank Credit Card EMI on 6 months tenure. Min. Txn Value: ₹10000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "6"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709223601AWGYE",
+                            "summary": "Flat ₹750 on HDFC Bank Debit Card EMI on 6 months tenure. Min Txn Value: ₹15000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "6"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709113342XSUO4",
+                            "summary": "Flat ₹1250 on HDFC Bank Debit Card EMI on 6 months tenure. Min Txn Value: ₹20000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "6"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250710132801LE5AN",
+                            "summary": "Flat ₹500 on HDFC Bank Debit Card EMI on 6 months tenure. Min. Txn Value: ₹10000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "6"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250710205724Y6ASG",
+                            "summary": "Flat ₹750 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹10000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250714124517A6HCH",
+                            "summary": "10% off up to  ₹1,250 on IDFC First Bank Credit Card Transactions. Min Txn Value:  ₹4,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT"
+                                ],
+                                "banks": [
+                                    "IDFC"
+                                ],
+                                "emi_months": [
+                                    "0"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/128/128/promos/01/09/2023/c00c8f1e-1ae7-49d1-b7e5-0e2df3d11ef7.png?q=100"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250714131302T33HL",
+                            "summary": "10% off up to ₹1,500 on Axis Bank Credit Card EMI Txns, Min Txn Value: ₹4,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "AXIS"
+                                ],
+                                "emi_months": [
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/axis-78501b36.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO2507141250387CCZS",
+                            "summary": "10% off up to  ₹1,500 on IDFC First Bank Credit Card EMI Transactions. Min Txn Value:  ₹4,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "IDFC"
+                                ],
+                                "emi_months": [
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/128/128/promos/01/09/2023/c00c8f1e-1ae7-49d1-b7e5-0e2df3d11ef7.png?q=100"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709182324S56YO",
+                            "summary": "Flat ₹1000 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹15000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709183310NNBXL",
+                            "summary": "Extra ₹500 on IDFC First Bank Debit Card Transactions. Min Txn Value:  ₹24,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT"
+                                ],
+                                "banks": [
+                                    "IDFC"
+                                ],
+                                "emi_months": [
+                                    "0"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://rukminim1.flixcart.com/www/128/128/promos/01/09/2023/c00c8f1e-1ae7-49d1-b7e5-0e2df3d11ef7.png?q=100"
+                        },
+                        {
+                            "adjustment_type": "CASHBACK_ON_CARD",
+                            "adjustment_id": "FPO250619135528ZQIZW",
+                            "summary": "5% cashback on Axis Bank Flipkart Debit Card up to ₹750",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT"
+                                ],
+                                "banks": [
+                                    "FLIPKARTAXISBANK"
+                                ],
+                                "emi_months": [
+                                    "0"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/axis-78501b36.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250709113659WO4QJ",
+                            "summary": "Flat ₹1500 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹20000",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "HDFC"
+                                ],
+                                "emi_months": [
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/hdfc-fa424ee4.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO2507141301525JH49",
+                            "summary": "10% off up to ₹1,250 on Axis Bank Credit Card Txns, Min Txn Value: ₹4,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "CREDIT"
+                                ],
+                                "banks": [
+                                    "AXIS"
+                                ],
+                                "emi_months": [
+                                    "0"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/axis-78501b36.svg"
+                        },
+                        {
+                            "adjustment_type": "INSTANT_DISCOUNT",
+                            "adjustment_id": "FPO250714132647751YF",
+                            "summary": "10% off up to ₹1,500 on Flipkart Axis Bank Credit Card EMI Txns, Min Txn Value: ₹4,990",
+                            "contributors": {
+                                "payment_instrument": [
+                                    "EMI_OPTIONS"
+                                ],
+                                "banks": [
+                                    "FLIPKARTAXISBANK"
+                                ],
+                                "emi_months": [
+                                    "3",
+                                    "6",
+                                    "9",
+                                    "12",
+                                    "18",
+                                    "24",
+                                    "36"
+                                ],
+                                "card_networks": []
+                            },
+                            "display_tags": [
+                                "PAYMENT_OPTIONS"
+                            ],
+                            "image": "https://img1a.flixcart.com/www/linchpin/fk-cp-pay/axis-78501b36.svg"
+                        }
+                    ]
+                }
+            },
+            "adjustment_list": [
+                {
+                    "adjustment_status": "APPLICABLE",
+                    "amount_delta": 100000,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250708213057D3S7O",
+                        "title": "1AAA_TCL_PREPAID_1000",
+                        "summary": "Get additional ₹1000 off on Credit/Debit Card, UPI and EMI Transactions",
+                        "display_text": "Get additional ₹1000 off on Credit/Debit Card, UPI and EMI Transactions",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 500000,
+                            "max_txn_value": 10000000000,
+                            "max_discount_per_txn": 100000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 10
+                        }
+                    },
+                    "is_pbo_fee_applicable": true,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "APPLICABLE",
+                    "amount_delta": 100000,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709085433BYNV3",
+                        "title": "1AAA_TCL_PREPAID_1000",
+                        "summary": "Get additional ₹1000 off on Credit/Debit Card, UPI and EMI Transactions",
+                        "display_text": "Get additional ₹1000 off on Credit/Debit Card, UPI and EMI Transactions",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 500000,
+                            "max_txn_value": 1000000000,
+                            "max_discount_per_txn": 100000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 10
+                        }
+                    },
+                    "is_pbo_fee_applicable": true,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.14999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709141940GTY6M",
+                        "title": "1AAI HDFC - CCEMI - Sitewide - 6M+",
+                        "summary": "Flat ₹500 on HDFC Bank Credit Card EMI on 6 months tenure. Min. Txn Value: ₹10000",
+                        "display_text": "Flat ₹500 on HDFC Bank Credit Card EMI on 6 months tenure. Min. Txn Value: ₹10000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1000000,
+                            "max_txn_value": 1499900,
+                            "max_discount_per_txn": 50000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for bank : SBI",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709113443ONOEI",
+                        "title": "1AEF IDFC - CC and CCEMI - 25k stepper",
+                        "summary": "Extra ₹500 on IDFC First Bank Credit Card and Credit EMI Transactions. Min Txn Value:  ₹24,990",
+                        "display_text": "Extra ₹500 on IDFC First Bank Credit Card and Credit EMI Transactions. Min Txn Value:  ₹24,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 50000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.14999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709101536EG53K",
+                        "title": "1AAJ HDFC - CCEMI - Sitewide - 6M+",
+                        "summary": "Flat ₹750 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹10000",
+                        "display_text": "Flat ₹750 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹10000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1000000,
+                            "max_txn_value": 1499900,
+                            "max_discount_per_txn": 75000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.19999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709223601AWGYE",
+                        "title": "1AAZ HDFC - DCEMI - Sitewide - 6M",
+                        "summary": "Flat ₹750 on HDFC Bank Debit Card EMI on 6 months tenure. Min Txn Value: ₹15000",
+                        "display_text": "Flat ₹750 on HDFC Bank Debit Card EMI on 6 months tenure. Min Txn Value: ₹15000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1500000,
+                            "max_txn_value": 1999900,
+                            "max_discount_per_txn": 75000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.14999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250710132801LE5AN",
+                        "title": "1AAX HDFC - DCEMI - Sitewide - 6M+",
+                        "summary": "Flat ₹500 on HDFC Bank Debit Card EMI on 6 months tenure. Min. Txn Value: ₹10000",
+                        "display_text": "Flat ₹500 on HDFC Bank Debit Card EMI on 6 months tenure. Min. Txn Value: ₹10000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1000000,
+                            "max_txn_value": 1499900,
+                            "max_discount_per_txn": 50000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709124732C8BWO",
+                        "title": "1ADD AXIS CCEMI CBC - 25k stepper - GOAT",
+                        "summary": "Extra ₹500 off on Flipkart Axis Bank Credit Cards EMI, Min Txn Value: ₹24,990",
+                        "display_text": "Extra ₹500 off on Flipkart Axis Bank Credit Cards EMI, Min Txn Value: ₹24,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 50000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for bank : SBI",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709161823R8URX",
+                        "title": "1ADC AXIS FS-EMI NonCBC-25k stepper-GOAT",
+                        "summary": "Extra ₹500 off on Axis Bank Credit Cards (incl. migrated ones), Min Txn Value: ₹24,990",
+                        "display_text": "Extra ₹500 off on Axis Bank Credit Cards (incl. migrated ones), Min Txn Value: ₹24,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 50000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO2507091817394HFZO",
+                        "title": "1AAM HDFC - CCEMI - Sitewide - 6M",
+                        "summary": "Flat ₹1250 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹20000",
+                        "display_text": "Flat ₹1250 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹20000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2000000,
+                            "max_txn_value": 2999900,
+                            "max_discount_per_txn": 125000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.19999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO25070910192385MCV",
+                        "title": "1AAK HDFC - CCEMI - Sitewide - 6M+",
+                        "summary": "Flat ₹750 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹15000",
+                        "display_text": "Flat ₹750 on HDFC Bank Credit Card EMI on 6 months tenure. Min Txn Value: ₹15000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1500000,
+                            "max_txn_value": 1999900,
+                            "max_discount_per_txn": 75000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.19999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO2507091128481E5J6",
+                        "title": "1AAU HDFC - DCEMI - Sitewide - 9M+",
+                        "summary": "Flat ₹1000 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹15000",
+                        "display_text": "Flat ₹1000 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹15000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1500000,
+                            "max_txn_value": 1999900,
+                            "max_discount_per_txn": 100000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709183310NNBXL",
+                        "title": "1AEH IDFC - DC - 25k stepper",
+                        "summary": "Extra ₹500 on IDFC First Bank Debit Card Transactions. Min Txn Value:  ₹24,990",
+                        "display_text": "Extra ₹500 on IDFC First Bank Debit Card Transactions. Min Txn Value:  ₹24,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 50000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.19999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709182324S56YO",
+                        "title": "1AAL HDFC - CCEMI - Sitewide - 9M+",
+                        "summary": "Flat ₹1000 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹15000",
+                        "display_text": "Flat ₹1000 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹15000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1500000,
+                            "max_txn_value": 1999900,
+                            "max_discount_per_txn": 100000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250710133852N3WCR",
+                        "title": "1AAN HDFC - CCEMI - Sitewide - 9M+",
+                        "summary": "Flat ₹1500 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹20000",
+                        "display_text": "Flat ₹1500 on HDFC Bank Credit Card EMI on 9 months and above tenure. Min Txn Value: ₹20000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2000000,
+                            "max_txn_value": 2999900,
+                            "max_discount_per_txn": 150000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709113659WO4QJ",
+                        "title": "1ABC HDFC - DCEMI - Sitewide - 9M+",
+                        "summary": "Flat ₹1500 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹20000",
+                        "display_text": "Flat ₹1500 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹20000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2000000,
+                            "max_txn_value": 2999900,
+                            "max_discount_per_txn": 150000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "The offer is valid only for transaction value less than Rs.14999 on your card.",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250710205724Y6ASG",
+                        "title": "1AAY HDFC - DCEMI - Sitewide - 9M+",
+                        "summary": "Flat ₹750 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹10000",
+                        "display_text": "Flat ₹750 on HDFC Bank Debit Card EMI on 9 months and above tenure. Min Txn Value: ₹10000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 1000000,
+                            "max_txn_value": 1499900,
+                            "max_discount_per_txn": 75000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250709113342XSUO4",
+                        "title": "1ABB HDFC - DCEMI - Sitewide - 6M",
+                        "summary": "Flat ₹1250 on HDFC Bank Debit Card EMI on 6 months tenure. Min Txn Value: ₹20000",
+                        "display_text": "Flat ₹1250 on HDFC Bank Debit Card EMI on 6 months tenure. Min Txn Value: ₹20000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 2000000,
+                            "max_txn_value": 2999900,
+                            "max_discount_per_txn": 125000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250626182451RYQC7",
+                        "title": "1AAP IDFC - DC (select cards)",
+                        "summary": "5% off up to ₹750 on IDFC FIRST Power Women Platinum and Signature DebitCards. Min Txn Value: ₹5,000",
+                        "display_text": "5% off up to ₹750 on IDFC FIRST Power Women Platinum and Signature DebitCards. Min Txn Value: ₹5,000",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 500000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 75000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for bank : SBI",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250714124517A6HCH",
+                        "title": "1AAF IDFC - CC - ROC 1250",
+                        "summary": "10% off up to  ₹1,250 on IDFC First Bank Credit Card Transactions. Min Txn Value:  ₹4,990",
+                        "display_text": "10% off up to  ₹1,250 on IDFC First Bank Credit Card Transactions. Min Txn Value:  ₹4,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 125000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO2507141250387CCZS",
+                        "title": "1AAG IDFC - CCEMI - ROC 1500",
+                        "summary": "10% off up to  ₹1,500 on IDFC First Bank Credit Card EMI Transactions. Min Txn Value:  ₹4,990",
+                        "display_text": "10% off up to  ₹1,500 on IDFC First Bank Credit Card EMI Transactions. Min Txn Value:  ₹4,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 150000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250714131302T33HL",
+                        "title": "1AAC AXIS CC EMI - ROC - GOAT",
+                        "summary": "10% off up to ₹1,500 on Axis Bank Credit Card EMI Txns, Min Txn Value: ₹4,990",
+                        "display_text": "10% off up to ₹1,500 on Axis Bank Credit Card EMI Txns, Min Txn Value: ₹4,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 150000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for bank : SBI",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO2507141301525JH49",
+                        "title": "1AAC AXIS CC - ROC - GOAT",
+                        "summary": "10% off up to ₹1,250 on Axis Bank Credit Card Txns, Min Txn Value: ₹4,990",
+                        "display_text": "10% off up to ₹1,250 on Axis Bank Credit Card Txns, Min Txn Value: ₹4,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 125000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250714132647751YF",
+                        "title": "1AAD AXIS CC EMI CBC - ROC - GOAT",
+                        "summary": "10% off up to ₹1,500 on Flipkart Axis Bank Credit Card EMI Txns, Min Txn Value: ₹4,990",
+                        "display_text": "10% off up to ₹1,500 on Flipkart Axis Bank Credit Card EMI Txns, Min Txn Value: ₹4,990",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 499000,
+                            "max_txn_value": 100000000,
+                            "max_discount_per_txn": 150000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for bank : SBI",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "CASHBACK_ON_CARD",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250619134128USHPF",
+                        "title": "1AAA 5% Cashback on Flipkart Axis Bank",
+                        "summary": "5% cashback on Flipkart Axis Bank Credit Card upto ₹4,000 per statement quarter",
+                        "display_text": "5% cashback on Flipkart Axis Bank Credit Card upto ₹4,000 per statement quarter",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 10000,
+                            "max_txn_value": 1000000000,
+                            "max_discount_per_txn": 400000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "CASHBACK_ON_CARD",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250619135528ZQIZW",
+                        "title": "1AAB 5% Cashback FK Axis - Debit card",
+                        "summary": "5% cashback on Axis Bank Flipkart Debit Card up to ₹750",
+                        "display_text": "5% cashback on Axis Bank Flipkart Debit Card up to ₹750",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 100,
+                            "max_txn_value": 10000000000,
+                            "max_discount_per_txn": 75000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "CASHBACK_ON_CARD",
+                        "adjustment_sub_type": "PBO",
+                        "adjustment_id": "FPO250626172916JI4VZ",
+                        "title": "Paytm UPI Offer",
+                        "summary": "Flat ₹10 Cashback on Paytm UPI Trxns. Min Order Value ₹500. Valid once per Paytm account",
+                        "display_text": "Flat ₹10 Cashback on Paytm UPI Trxns. Min Order Value ₹500. Valid once per Paytm account",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 50000,
+                            "max_txn_value": 10000000000,
+                            "max_discount_per_txn": 1000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 1
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "EMI_FULL_INTEREST_WAIVER",
+                        "adjustment_id": "FPO250630230835EINJB",
+                        "title": "1AAA_SPPL_NCEMI_3",
+                        "summary": "No Cost EMI on Credit and Debit Cards",
+                        "display_text": "No Cost EMI on Credit and Debit Cards",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 500000,
+                            "max_txn_value": 10000000000,
+                            "max_discount_per_txn": 100000000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 10
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "EMI_FULL_INTEREST_WAIVER",
+                        "adjustment_id": "FPO250630234041IYTLP",
+                        "title": "No Cost EMI on Cardless EMI",
+                        "summary": "No Cost EMI on Cardless EMI",
+                        "display_text": "No Cost EMI on Cardless EMI",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 500000,
+                            "max_txn_value": 100000000000,
+                            "max_discount_per_txn": 10000000000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                },
+                {
+                    "adjustment_status": "FAILED",
+                    "amount_delta": 0,
+                    "convertible_units": 0,
+                    "is_selected": false,
+                    "failure_description": "Offer not applicable for payment instrument : CREDIT",
+                    "display_failure_description": false,
+                    "offer_details": {
+                        "adjustment_type": "INSTANT_DISCOUNT",
+                        "adjustment_sub_type": "EMI_FULL_INTEREST_WAIVER",
+                        "adjustment_id": "FPO250630231510JJHGY",
+                        "title": "1AAA_SAMSUNG_1P_3",
+                        "summary": "No Cost EMI on your Flipkart Paylater EMI Transactions",
+                        "display_text": "No Cost EMI on your Flipkart Paylater EMI Transactions",
+                        "provider": "FLIPKART",
+                        "offer_txn_limits": {
+                            "min_txn_value": 500000,
+                            "max_txn_value": 10000000000,
+                            "max_discount_per_txn": 100000000
+                        },
+                        "offer_aggregation_limits": {
+                            "max_discount_per_card": 0,
+                            "max_txns_for_offer": 0
+                        }
+                    },
+                    "is_pbo_fee_applicable": false,
+                    "offerTags": []
+                }
+            ]
+        }
+    }
+}
